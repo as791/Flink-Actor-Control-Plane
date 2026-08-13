@@ -7,7 +7,7 @@ require (
 	go.temporal.io/api v1.63.4
 	go.temporal.io/sdk v1.47.0
 	golang.org/x/oauth2 v0.36.0
-	google.golang.org/protobuf v1.36.11
+	google.golang.org/protobuf v1.36.12
 	gopkg.in/yaml.v3 v3.0.1
 )
 
