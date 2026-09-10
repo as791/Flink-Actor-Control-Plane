@@ -1,6 +1,6 @@
 module github.com/cohestra-project/cohestra/examples/wikimedia-producer
 
-go 1.25.4
+go 1.26.0
 
 require github.com/segmentio/kafka-go v0.4.51
 
